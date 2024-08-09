@@ -1,0 +1,19 @@
+.parrafos {
+    background-color: palevioletred;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#B {
+    color: blue;
+    font-size: 36px;
+}
+
+#C{
+    font-size: 24px;
+}
+
+#D{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
