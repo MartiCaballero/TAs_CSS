@@ -1,0 +1,44 @@
+body {
+    height: 100vh;
+    background-color: red;
+}
+div {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+}
+
+
+@media (max-width: 1440px) {
+    body{
+        background-color: white;
+        font-size: 24px;
+    }
+
+    .Centered {
+        width: 50%;
+    }
+}
+
+
+@media (max-width: 768px){
+    body{
+        background-color: green;
+        font-size: 18px;
+    }
+
+    .Centered {
+        width: 70%;
+    }
+}
+
+@media (max-width: 425px){
+    body{
+        background-color: blue;
+        font-size: 14px;
+    }
+
+    .Centered {
+        width: 100%;
+    }
+}

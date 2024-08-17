@@ -1,0 +1,31 @@
+div {
+    background-color: rgb(152, 109, 131);
+    text-align: center;
+
+    width: 300px;
+    padding: 60px 20px 20px 20px;
+    border-radius: 10px;
+    position: relative;
+    margin: 100px auto;
+    
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+
+img{
+    position: absolute;
+    top: -25px;
+    left: 50px; 
+    transform: translateX(-50%);
+    border-radius: 50%;
+
+    width: 110px;
+    height: 110px;
+
+}
+
+p {
+    margin: 10px 0;
+}
